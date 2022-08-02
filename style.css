@@ -1,0 +1,23 @@
+body {
+    background-color: turquoise;
+}
+#Score {
+    font-size: 24px;
+    float: left;
+    margin-left: 55px;
+}
+#Timer {
+    font-size: 24px;
+    float: right;
+    margin-right: 55px;
+}
+#Sketch {
+    font-size: 24px;
+    color: aliceblue;
+}
+#Label {
+    font-size: 24px;
+}
+#Confidence {
+    font-size: 24px;
+}
